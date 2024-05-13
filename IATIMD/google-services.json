@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "945875079163",
+    "project_id": "alcoholappvanmelvin",
+    "storage_bucket": "alcoholappvanmelvin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945875079163:android:cd3118af2952bd9a50855e",
+        "android_client_info": {
+          "package_name": "IATIMD.IATIMD.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945875079163-huh663b8dl4co4grkh0s18rq0runbcgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbJFA-O_hFJcdfslTr7ziuZ1WREIs1D44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945875079163-huh663b8dl4co4grkh0s18rq0runbcgc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "945875079163-40pqsktgno5a7pq7orgbd5s66j5141q0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oriantar.alcoholapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945875079163:android:4844e2655ea17d3c50855e",
+        "android_client_info": {
+          "package_name": "com.oriantar.alcoholapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945875079163-b4b61detdn31bfjutu78og2hvjn0lp5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oriantar.alcoholapp",
+            "certificate_hash": "1e354c3d41dc0d3c403db19f22de23299a33a1c8"
+          }
+        },
+        {
+          "client_id": "945875079163-huh663b8dl4co4grkh0s18rq0runbcgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbJFA-O_hFJcdfslTr7ziuZ1WREIs1D44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945875079163-huh663b8dl4co4grkh0s18rq0runbcgc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "945875079163-40pqsktgno5a7pq7orgbd5s66j5141q0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oriantar.alcoholapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

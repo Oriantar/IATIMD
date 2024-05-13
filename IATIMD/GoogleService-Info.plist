@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>945875079163-40pqsktgno5a7pq7orgbd5s66j5141q0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.945875079163-40pqsktgno5a7pq7orgbd5s66j5141q0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>945875079163-b4b61detdn31bfjutu78og2hvjn0lp5p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkU7nS7baOF8v-Ewr5Nvh9WRRUI6exsBo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>945875079163</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.oriantar.alcoholapp</string>
+	<key>PROJECT_ID</key>
+	<string>alcoholappvanmelvin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alcoholappvanmelvin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:945875079163:ios:138fc4b9781461bf50855e</string>
+</dict>
+</plist>
