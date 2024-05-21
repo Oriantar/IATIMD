@@ -3,7 +3,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import  Weather  from "./src/weather.js";
 import Home from "./src/home.js";
-
+import Invoer from "./src/invoer.js";
 
 export default function App() {
   const Stack = createNativeStackNavigator();
@@ -22,6 +22,13 @@ export default function App() {
         <Stack.Screen
           name="Weather"
           component={Weather}
+          options={{
+            headerShown: false,
+          }}
+        />
+        <Stack.Screen
+          name="Invoer"
+          component={Invoer}
           options={{
             headerShown: false,
           }}
